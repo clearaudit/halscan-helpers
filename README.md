@@ -11,3 +11,6 @@ levels first so the as-produced findings can always be recovered.
     python preserve_levels.py scan.sarif > scan.original-levels.json
 
 Maintainer: Daniel Kessler (clearaudit)
+
+## Notes
+Tested against halscan 2.x SARIF.
